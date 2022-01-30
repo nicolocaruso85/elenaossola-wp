@@ -1,0 +1,639 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Braxton 1.06\n"
+"POT-Creation-Date: 2013-11-13 14:08-0500\n"
+"PO-Revision-Date: 2013-11-13 14:09-0500\n"
+"Last-Translator: \n"
+"Language-Team:  <mvpthemes@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;_n;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:7
+msgid "Error"
+msgstr ""
+
+#: 404.php:8
+msgid "The page you requested does not exist or has moved."
+msgstr ""
+
+#: archive.php:5
+msgid "All posts tagged"
+msgstr ""
+
+#: author.php:8
+msgid "All posts by"
+msgstr ""
+
+#: comments.php:3
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: comments.php:18 single.php:29
+msgid "1 Comment"
+msgstr ""
+
+#: comments.php:24 comments.php:35
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:25 comments.php:36
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:50
+msgid "You must be logged in to post a comment"
+msgstr ""
+
+#: comments.php:52
+msgid "Login"
+msgstr ""
+
+#: comments.php:61 comments.php:62
+msgid "Leave a Reply"
+msgstr ""
+
+#: functions.php:270
+msgid "Main Menu"
+msgstr ""
+
+#: functions.php:271
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:394
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: functions.php:496
+msgid "Page"
+msgstr ""
+
+#: functions.php:578
+msgid ""
+"Add a custom featured headline that will be displayed in the featured slider."
+msgstr ""
+
+#: functions.php:593
+msgid "Enter your video or audio embed code."
+msgstr ""
+
+#: functions.php:608
+msgid "Add a photo credit for the featured image."
+msgstr ""
+
+#: functions.php:623
+msgid ""
+"Select to show or hide the featured image from automatically displaying in "
+"this post."
+msgstr ""
+
+#: functions.php:837
+#, php-format
+msgid "%s "
+msgstr ""
+
+#: functions.php:840
+msgid "at"
+msgstr ""
+
+#: functions.php:841 functions.php:867
+msgid "Edit"
+msgstr ""
+
+#: functions.php:849
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions.php:867
+msgid "Pingback:"
+msgstr ""
+
+#: functions.php:922
+msgid "You may also like..."
+msgstr ""
+
+#: header.php:119
+msgid "Menu"
+msgstr ""
+
+#: page-fullwidth.php:16 page.php:10
+msgid "Photo:"
+msgstr ""
+
+#: search.php:5
+msgid "Search results for"
+msgstr ""
+
+#: search.php:35
+msgid "Your search did not match any entries"
+msgstr ""
+
+#: searchform.php:2
+msgid "Search"
+msgstr ""
+
+#: sidebar-home.php:5 sidebar-home.php:59 sidebar.php:5
+#: widgets/widget-ad.php:41 widgets/widget-ad125.php:44
+msgid "Advertisement"
+msgstr ""
+
+#: single.php:28
+msgid "By"
+msgstr ""
+
+#: single.php:29
+msgid "0 Comments"
+msgstr ""
+
+#: single.php:29
+msgid "% Comments"
+msgstr ""
+
+#: single.php:54
+msgid "Related Items"
+msgstr ""
+
+#: single.php:104
+msgid "Previous Story"
+msgstr ""
+
+#: single.php:107
+msgid "Next Story"
+msgstr ""
+
+#: admin/theme-settings.php:48 admin/theia-post-slider/admin-menu.php:24
+msgid "General"
+msgstr ""
+
+#: admin/theme-settings.php:52
+msgid "Logo Location"
+msgstr ""
+
+#: admin/theme-settings.php:53
+msgid "Set the location of your logo."
+msgstr ""
+
+#: admin/theme-settings.php:60
+msgid "Logo"
+msgstr ""
+
+#: admin/theme-settings.php:61
+msgid "Select a file to appear as the logo for your site."
+msgstr ""
+
+#: admin/theme-settings.php:66
+msgid "Custom Favicon"
+msgstr ""
+
+#: admin/theme-settings.php:67
+msgid ""
+"Upload a 16x16px PNG/GIF image that will represent your website's favicon."
+msgstr ""
+
+#: admin/theme-settings.php:73
+msgid "Tracking Code"
+msgstr ""
+
+#: admin/theme-settings.php:79
+msgid "Custom CSS"
+msgstr ""
+
+#: admin/theme-settings.php:85
+msgid "Number of posts per page"
+msgstr ""
+
+#: admin/theme-settings.php:91
+msgid "Toggle Responsiveness"
+msgstr ""
+
+#: admin/theme-settings.php:97
+msgid "Toggle Sticky Sidebar"
+msgstr ""
+
+#: admin/theme-settings.php:103
+msgid "Toggle Infinite Scroll"
+msgstr ""
+
+#: admin/theme-settings.php:111
+msgid "Colors"
+msgstr ""
+
+#: admin/theme-settings.php:114
+msgid "Primary Theme Color"
+msgstr ""
+
+#: admin/theme-settings.php:115
+msgid "Primary color for the site."
+msgstr ""
+
+#: admin/theme-settings.php:120
+msgid "Main Menu Background Color"
+msgstr ""
+
+#: admin/theme-settings.php:121
+msgid "The background color of the main menu."
+msgstr ""
+
+#: admin/theme-settings.php:126
+msgid "Primary Link Color"
+msgstr ""
+
+#: admin/theme-settings.php:127
+msgid "Primary link color for the site."
+msgstr ""
+
+#: admin/theme-settings.php:133
+msgid "Fonts"
+msgstr ""
+
+#: admin/theme-settings.php:137
+msgid "Featured Slider Headline Font"
+msgstr ""
+
+#: admin/theme-settings.php:138
+msgid ""
+"Select the font for the main headline in the Featured Slider section on the "
+"homepage and category pages."
+msgstr ""
+
+#: admin/theme-settings.php:146
+msgid "Main Menu Font"
+msgstr ""
+
+#: admin/theme-settings.php:147
+msgid "Select the font for the main menu."
+msgstr ""
+
+#: admin/theme-settings.php:155
+msgid "General Headline Font"
+msgstr ""
+
+#: admin/theme-settings.php:156
+msgid ""
+"Select the font for the general headline font used in widgets, archive pages "
+"and page/post titles."
+msgstr ""
+
+#: admin/theme-settings.php:164
+msgid "Header Font"
+msgstr ""
+
+#: admin/theme-settings.php:165
+msgid "Select the font for the headers around the site."
+msgstr ""
+
+#: admin/theme-settings.php:174
+msgid "Home Featured Slider"
+msgstr ""
+
+#: admin/theme-settings.php:177 admin/theme-settings.php:209
+#: admin/theme-settings.php:244 admin/theme-settings.php:342
+#: admin/theme-settings.php:401
+msgid "Attention"
+msgstr ""
+
+#: admin/theme-settings.php:183
+msgid "Show Featured Slider?"
+msgstr ""
+
+#: admin/theme-settings.php:190
+msgid "Featured Slider Tag Slug"
+msgstr ""
+
+#: admin/theme-settings.php:191
+msgid ""
+"Posts with this Tag will be displayed in the Featured Slider at the top of "
+"the homepage."
+msgstr ""
+
+#: admin/theme-settings.php:198 admin/theme-settings.php:318
+msgid "Maximum Featured Slider Items"
+msgstr ""
+
+#: admin/theme-settings.php:206
+msgid "Home Featured Posts"
+msgstr ""
+
+#: admin/theme-settings.php:215
+msgid "Show Featured Posts Section?"
+msgstr ""
+
+#: admin/theme-settings.php:222
+msgid "Featured Posts Left Category"
+msgstr ""
+
+#: admin/theme-settings.php:223
+msgid ""
+"Posts with this Category will be displayed to the left of the Featured Post "
+"on the homepage."
+msgstr ""
+
+#: admin/theme-settings.php:231
+msgid "Featured Posts Right Category"
+msgstr ""
+
+#: admin/theme-settings.php:232
+msgid ""
+"Posts with this Category will be displayed to the right of the Featured Post "
+"on the homepage."
+msgstr ""
+
+#: admin/theme-settings.php:241
+msgid "Home Body Layout"
+msgstr ""
+
+#: admin/theme-settings.php:251
+msgid "Homepage Layout"
+msgstr ""
+
+#: admin/theme-settings.php:252
+msgid "Select your layout for the body of the homepage."
+msgstr ""
+
+#: admin/theme-settings.php:259
+msgid "Homepage Blog Heading"
+msgstr ""
+
+#: admin/theme-settings.php:266
+msgid "Homepage Blog Layout"
+msgstr ""
+
+#: admin/theme-settings.php:267
+msgid ""
+"If you chose the Blog-style homepage layout, you can choose between three "
+"different layout options: The large image, the horizontal list, or the two "
+"columns."
+msgstr ""
+
+#: admin/theme-settings.php:280
+msgid "Article Settings"
+msgstr ""
+
+#: admin/theme-settings.php:283
+msgid "Show Featured Image In Posts?"
+msgstr ""
+
+#: admin/theme-settings.php:284
+msgid ""
+"Uncheck this box if you would like to remove the featured image thumbnail "
+"from all posts."
+msgstr ""
+
+#: admin/theme-settings.php:289
+msgid "Show Social Sharing Buttons?"
+msgstr ""
+
+#: admin/theme-settings.php:295
+msgid "Show Author Info?"
+msgstr ""
+
+#: admin/theme-settings.php:301
+msgid "Show Previous/Next Post Links?"
+msgstr ""
+
+#: admin/theme-settings.php:309
+msgid "Category Pages"
+msgstr ""
+
+#: admin/theme-settings.php:312
+msgid "Show Featured Slider"
+msgstr ""
+
+#: admin/theme-settings.php:325
+msgid "Category Body Layout"
+msgstr ""
+
+#: admin/theme-settings.php:326
+msgid ""
+"Choose between three different layout options for your category pages: The "
+"large image, the horizontal list, or the two columns."
+msgstr ""
+
+#: admin/theme-settings.php:339
+msgid "Social Media"
+msgstr ""
+
+#: admin/theme-settings.php:348
+msgid "Facebook"
+msgstr ""
+
+#: admin/theme-settings.php:354
+msgid "Twitter"
+msgstr ""
+
+#: admin/theme-settings.php:360
+msgid "Pinterest"
+msgstr ""
+
+#: admin/theme-settings.php:366
+msgid "Instagram"
+msgstr ""
+
+#: admin/theme-settings.php:372
+msgid "Google Plus"
+msgstr ""
+
+#: admin/theme-settings.php:378
+msgid "Youtube"
+msgstr ""
+
+#: admin/theme-settings.php:384
+msgid "Linkedin"
+msgstr ""
+
+#: admin/theme-settings.php:390
+msgid "Custom RSS Link"
+msgstr ""
+
+#: admin/theme-settings.php:398
+msgid "Ad Management"
+msgstr ""
+
+#: admin/theme-settings.php:407
+msgid "Header Leaderboard Ad Code"
+msgstr ""
+
+#: admin/theme-settings.php:413
+msgid "Footer Leaderboard Ad Code"
+msgstr ""
+
+#: admin/theme-settings.php:419
+msgid "Wallpaper Ad Image URL"
+msgstr ""
+
+#: admin/theme-settings.php:425
+msgid "Wallpaper Ad URL"
+msgstr ""
+
+#: admin/theme-settings.php:433
+msgid "Footer Info"
+msgstr ""
+
+#: admin/theme-settings.php:436
+msgid "Show Footer Info Box?"
+msgstr ""
+
+#: admin/theme-settings.php:442
+msgid "Footer Logo"
+msgstr ""
+
+#: admin/theme-settings.php:443
+msgid "Select a file to appear as the logo in the Footer Info Box."
+msgstr ""
+
+#: admin/theme-settings.php:448
+msgid "Footer Info Text"
+msgstr ""
+
+#: admin/theme-settings.php:454
+msgid "Copyright Text"
+msgstr ""
+
+#: admin/theia-post-slider/admin-menu.php:28
+msgid "Navigation Bar"
+msgstr ""
+
+#: admin/theia-post-slider/admin-menu.php:64
+msgid "Live Preview"
+msgstr ""
+
+#: admin/theia-post-slider/TpsAdmin_General.php:12
+msgid "General Settings"
+msgstr ""
+
+#: admin/theia-post-slider/TpsAdmin_General.php:16
+msgid "Theme:"
+msgstr ""
+
+#: admin/theia-post-slider/TpsAdmin_General.php:31
+msgid "Transition effect:"
+msgstr ""
+
+#: admin/theia-post-slider/TpsAdmin_General.php:46
+msgid "Transition duration (ms):"
+msgstr ""
+
+#: admin/theia-post-slider/TpsAdmin_General.php:54
+#: admin/theia-post-slider/TpsAdmin_NavigationBar.php:154
+msgid "Save All Changes"
+msgstr ""
+
+#: admin/theia-post-slider/TpsAdmin_NavigationBar.php:12
+msgid "Navigation Bar Settings"
+msgstr ""
+
+#: admin/theia-post-slider/TpsAdmin_NavigationBar.php:16
+msgid "Navigation text:"
+msgstr ""
+
+#: admin/theia-post-slider/TpsAdmin_NavigationBar.php:25
+msgid "Helper text:"
+msgstr ""
+
+#: admin/theia-post-slider/TpsAdmin_NavigationBar.php:33
+#: admin/theia-post-slider/TpsAdmin_NavigationBar.php:129
+msgid "Previous button text:"
+msgstr ""
+
+#: admin/theia-post-slider/TpsAdmin_NavigationBar.php:41
+#: admin/theia-post-slider/TpsAdmin_NavigationBar.php:137
+msgid "Next button text:"
+msgstr ""
+
+#: admin/theia-post-slider/TpsAdmin_NavigationBar.php:49
+#: admin/theia-post-slider/TpsAdmin_NavigationBar.php:145
+msgid "Button width (px):"
+msgstr ""
+
+#: admin/theia-post-slider/TpsAdmin_NavigationBar.php:58
+msgid "Horizontal position:"
+msgstr ""
+
+#: admin/theia-post-slider/TpsAdmin_NavigationBar.php:73
+msgid "Vertical position:"
+msgstr ""
+
+#: admin/theia-post-slider/TpsAdmin_NavigationBar.php:88
+#: admin/theia-post-slider/TpsAdmin_NavigationBar.php:108
+msgid "Button behavior:"
+msgstr ""
+
+#: admin/theia-post-slider/TpsAdmin_NavigationBar.php:104
+msgid "Post Navigation"
+msgstr ""
+
+#: widgets/widget-ad.php:19
+msgid "A widget that displays an ad of any size."
+msgstr ""
+
+#: widgets/widget-ad.php:25
+msgid "Braxton: Ad Widget"
+msgstr ""
+
+#: widgets/widget-ad125.php:19
+msgid "A widget that displays four 125x125 ads."
+msgstr ""
+
+#: widgets/widget-ad125.php:25
+msgid "Braxton: 125x125 Ads Widget"
+msgstr ""
+
+#: widgets/widget-columns.php:19
+msgid ""
+"A widget that displays posts in two columns (in one column in the sidebar or "
+"footer) from a category of your choice."
+msgstr ""
+
+#: widgets/widget-columns.php:25
+msgid "Braxton: Columns Widget"
+msgstr ""
+
+#: widgets/widget-facebook.php:19
+msgid "A widget that displays a Facebook Like Box."
+msgstr ""
+
+#: widgets/widget-facebook.php:25
+msgid "Braxton: Facebook Widget"
+msgstr ""
+
+#: widgets/widget-large.php:19
+msgid ""
+"A widget that displays posts with a large image from a category of your "
+"choice."
+msgstr ""
+
+#: widgets/widget-large.php:25
+msgid "Braxton: Large Widget"
+msgstr ""
+
+#: widgets/widget-list.php:19
+msgid "A widget that displays posts in a list from a category of your choice."
+msgstr ""
+
+#: widgets/widget-list.php:25
+msgid "Braxton: List Widget"
+msgstr ""
+
+#: widgets/widget-social.php:19
+msgid "A widget that displays social buttons from several social media sites."
+msgstr ""
+
+#: widgets/widget-social.php:25
+msgid "Braxton: Social Widget"
+msgstr ""
+
+#: widgets/widget-tags.php:19
+msgid "A custom Tag Cloud widget."
+msgstr ""
+
+#: widgets/widget-tags.php:25
+msgid "Braxton: Tag Cloud Widget"
+msgstr ""
