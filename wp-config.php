@@ -19,13 +19,13 @@
 // ** Impostazioni MySQL - E? possibile ottenere questoe informazioni
 // ** dal proprio fornitore di hosting ** //
 /** Il nome del database di WordPress */
-define('DB_NAME', 'elenaossola');
+define('DB_NAME', 'wjqefbsy_elenaossola-wp');
 
 /** Nome utente del database MySQL */
-define('DB_USER', 'elenaossola');
+define('DB_USER', 'wjqefbsy_elenaossola');
 
 /** Password del database MySQL */
-define('DB_PASSWORD', 'hZc5x34hvc.APX{2');
+define('DB_PASSWORD', 'qwepoi123098');
 
 /** Hostname MySQL  */
 define('DB_HOST', 'localhost');
